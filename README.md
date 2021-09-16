@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I'm Jacky Chan. I am a former mechanical engineer and now work as a freelance data scientist. I am currently working on some projects related to algo-trading and AI trading. I believe that our living qualities can be improved with data analysis and appropriate use of machine learning.
-
+<!--
 ### Getting in touch
-Email: [Click here!](chunkeichan1901@gmail.com)
+Email: [Click here!](chunkeichan1901@gmail.com)-->
 <!--
 **chunkeichan/chunkeichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
